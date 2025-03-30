@@ -2,7 +2,6 @@
 
 UsePopcorn is a React-based movie application that allows users to search for movies, view their details, rate them, and keep track of watched movies.
 
-![UsePopcorn Screenshot](https://placeholder-for-screenshot.com)
 
 ## Features
 
